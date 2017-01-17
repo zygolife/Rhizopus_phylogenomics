@@ -1,0 +1,6 @@
+[submodule "Phylogenomics"]
+	path = Phylogenomics
+	url = https://github.com/1KFG/Phylogenomics
+[submodule "Phylogenomics_HMMs"]
+	path = Phylogenomics_HMMs
+	url = https://github.com/1KFG/Phylogenomics_HMMs.git
