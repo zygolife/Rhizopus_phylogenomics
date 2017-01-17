@@ -1,0 +1,3 @@
+HMM=JGI_1086
+OUT=Bacci1
+PREFIX=Rhizopus
